@@ -1,5 +1,8 @@
 #include "Arduino.h"
 //The setup function is called once at startup of the sketch
+
+#define LED 13
+
 void setup()
 {
 // Add your initialization code here

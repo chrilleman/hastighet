@@ -2,6 +2,7 @@
 //The setup function is called once at startup of the sketch
 
 #define LED 13
+#define LED2 14
 
 void setup()
 {

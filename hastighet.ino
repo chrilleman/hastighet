@@ -3,6 +3,7 @@
 
 #define LED 13
 #define LED2 14
+#define LED3 15
 
 void setup()
 {

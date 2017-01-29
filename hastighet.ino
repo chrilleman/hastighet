@@ -17,5 +17,6 @@ void loop()
 	digitalWrite(13,LOW);
 	delay(100);
 	Serial.println("Hello world!");
+	delay(100);
 }
 
